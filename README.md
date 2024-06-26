@@ -1,1 +1,1 @@
-# A Survey of Population Structure of Myotis Yumanensis in British Columbia, Canada using Microsatellites
+# A Survey of Population Structure of *Myotis Yumanensis* in British Columbia, Canada using Microsatellites
